@@ -1,4 +1,5 @@
 # Turtlebot 3 navigation simulation demo
+The demo demonstrate a simulation for GPS waypoints navigation using turtlebot3 robot model and gazebo world [Sonoma Raceway](https://docs.px4.io/v1.13/en/simulation/gazebo.html), which includes GPS data aligned with real world location.
 
 ## Prerequisites
 * [Docker Engine](https://docs.docker.com/engine/install/)
